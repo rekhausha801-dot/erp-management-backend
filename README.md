@@ -5,4 +5,3 @@
 - **NestJS**
 - **PostgreSQL**
 - **Prisma ORM**
-- **SQL**
